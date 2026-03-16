@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Eduardo Sanchez👋</h1>
 
-<!--
-**ssedux/ssedux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A928&center=true&vCenter=true&width=435&lines=Desarrollador+Web+%26+Mobile;JavaScript+%7C+React+%7C+Kotlin;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mí
+
+- 🎓 Estudiante de ingenieria en informatica
+- 💻 Me apasiona el desarrollo **web y móvil**
+- 🤝 Abierto a colaborar en proyectos interesantes
+- 📍 El Salvador
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,kotlin,php,mysql,git,github,vscode,androidstudio,wordpress" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssedux&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssedux&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssedux&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 📬 Contáctame
+
+<p align="center">
+  <a href="https://github.com/ssedux">
+    <img src="https://img.shields.io/badge/GitHub-ssedux-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ssedux&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
